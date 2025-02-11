@@ -3,6 +3,4 @@ int main(){
     int g;
     scanf("%f", &g);
     printf("%f", g);
-    return 0;
-
 }
